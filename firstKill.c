@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main()
 {
-	printf("what t f.\n");
+ 	printf("sorry.\n");
+ 	printf("sorry.\n");
+ 	printf("sorry.\n");
 	return 0;
 }
