@@ -71,4 +71,7 @@
 ```bash
 	echo "哈喽"
 ```
+[哔哩哔哩]（https://www.bilibili.com "进入b站"）b站;
+
+![图片]（https://beta.glilmu.com/i/2022/11/23/xksvey.jpg "大图"）
 
